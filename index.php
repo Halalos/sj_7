@@ -29,6 +29,8 @@
     foreach($data as $name => $age){
         echo "$name ma $age rokov. <br>";  
     }
+
+    
     ?>
 </body>
 </html>
